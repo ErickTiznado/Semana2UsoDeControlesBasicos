@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Uso De Controles Basicos</string>
+    <string name="titulo">CONTROLES BASICOS</string>
+    <string name="nombre">Escriba su nombre</string>
+    <string name="apellido">Escriba su apellido</string>
+    <string name="enviarDatos">Enviar Datos</string>
+
+    <string name="titulo1">DETERMINAR SI ES MAYOR DE EDAD</string>
+    <string name="nombre1">Escriba su nombre</string>
+    <string name="edad">Escriba su edad</string>
+    <string name="enviarDatos1">ENVIAR DATOS</string>
+    <string name="volver">PANTALLA ANTERIOR</string>
+
+</resources>

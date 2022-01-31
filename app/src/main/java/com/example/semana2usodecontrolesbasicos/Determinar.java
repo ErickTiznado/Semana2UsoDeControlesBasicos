@@ -47,7 +47,7 @@ public class Determinar extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Intent vuelva = new
-                        Intent(Determinar.this,IngEdad.class);
+                        Intent(Determinar.this,MainActivity.class);
                 startActivity(vuelva);
             }
         });
